@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 87923a7ef1d8220498a6ac1c03a0287e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerPrefab: {instanceID: 0}
+  - MaxGUISkin: {fileID: 11400000, guid: 8f5114c7ac3090545ac4e57e1ebe1af4, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
